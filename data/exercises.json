@@ -1,0 +1,37 @@
+[
+   {
+      "username": "fcc",
+      "description": "Description test",
+      "duration": 60,
+      "date": "Sun Nov 19 2023",
+      "_id": "2be67040-9f97-448d-9b94-ae5c46847215"
+   },
+   {
+      "username": "fcc",
+      "description": "Description test 1",
+      "duration": 60,
+      "date": "Sun Nov 19 2023",
+      "_id": "815ac57d-f20e-4940-8705-2d34af3bf486"
+   },
+   {
+      "username": "fcc",
+      "description": "Description test 2",
+      "duration": 60,
+      "date": "Sun Nov 19 2023",
+      "_id": "59ca7d0d-fe60-4c25-877d-5d003564be5f"
+   },
+   {
+      "username": "fcc",
+      "description": "Description test 2",
+      "duration": 60,
+      "date": "Wed Dec 14 2018",
+      "_id": "21e2dcaf-a0b9-4f37-899a-225b8b7b7a9d"
+   },
+   {
+      "username": "fcc",
+      "description": "Description test 2",
+      "duration": 60,
+      "date": "Tue Sep 14 2017",
+      "_id": "2f2e2a6d-7ed5-43b5-945a-a371bc25ea0a"
+   }
+]
